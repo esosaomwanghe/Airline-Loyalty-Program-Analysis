@@ -49,6 +49,7 @@ Deliver actionable insights to help airlines:
 - Engagement Distribution by Education Level
 
 All included in the notebook and PDF report.
+[Full Project Report (29-page PDF)](https://github.com/esosaomwanghe/Airline-Loyalty-Program-Analysis/blob/main/Evaluating%20the%20Effectiveness%20of%20Marketing%20Campaigns%20on%20Loyalty%20Program%20Engagement%20and%20Flight%20Bookings%20Across%20Key%20Demographics%20in%20Canada.pdf)
 
 ---
 
